@@ -93,27 +93,4 @@ printf("\t\tThank you");
 
 return 0;
 }
-
-
-/*OUTPUT:
-	              	Welcome
--------------------------------------------------
-      	Jawahar Navodaya Vidyalaya 
-          	Annual Report Card
-Enter name:Apurva Sarode
-Standard:11
-Section:A
-
-Marks secured out of 100
-Mathematics:88
-Hindi:89
-English:87
-Science:78
-Social science:89
-
-Total marks secured:431
-Grade B
-
-----------------------------------------------------
-	              	Thank you
-*/    
+  
